@@ -1,6 +1,6 @@
 # VGG16 and MobileNet with Tensorflow.js
    pretrained VGG16 and MobileNet with TensorFlow.js . MobileNet needs to be manually downloaded
-   and converter with tensorflowjs_converter --input_format keras
+   and converted with tensorflowjs_converter --input_format keras
 ## How to use it efficiently
   1. import keras 
   2. import tensorflowjs as TFJS
